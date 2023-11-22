@@ -32,3 +32,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+010-basic-setup/.terraform.lock.hcl
+010-basic-setup/mytestingkey.pub
+keypairs/mytestingazkey
+keypairs/mytestingazkey.pub
+010-basic-setup-plan-ok-run-crash/.terraform.lock.hcl
